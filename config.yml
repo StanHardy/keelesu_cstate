@@ -160,15 +160,15 @@ params:
     - name: Website
       description: The web frontend for the application.
       category: Website
-      link: https://keelesu.com/
+      link: https://keelesu.com
     - name: StaffSavvy
       description: Staffsavvy website.
       category: IT Support Links
-      link: https://staff.keelesu.com/
+      link: https://staff.keelesu.com
     - name: Xibo
       description: This is the service responsible for serving our Digital Signage.
       category: IT Support Links
-      link: http://digitalsignage.keelesu.com/
+      link: http://digitalsignage.keelesu.com
 
   # What date format to use?
   #
