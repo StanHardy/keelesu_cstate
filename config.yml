@@ -146,8 +146,8 @@ params:
     - name: Website
       description: The main website.
       closed: false
-    - name: Uncategorized
-      untitled: true
+    - name: IT Support Links
+      untitled: false
 
   # These are your systems. Change them to
   # change the amount of components.
