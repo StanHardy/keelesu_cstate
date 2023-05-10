@@ -146,7 +146,6 @@ params:
     - name: Website
       description: The main website.
       closed: false
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
 
