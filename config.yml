@@ -143,9 +143,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
+    - name: Website
+      description: The main website.
+      closed: false
     - name: Empty Category
     - name: Uncategorized
       untitled: true
@@ -158,20 +158,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: Website
       link: https://keelesu.com/
-    - name: API
-      description: The guts of the application.
+    - name: StaffSavvy
+      description: Staffsavvy website.
       category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      link: https://staff.keelesu.com/
+    - name: Xibo
+      description: This is the service responsible for serving our Digital Signage.
       category: Uncategorized
+      link: http://digitalsignage.keelesu.com/
 
   # What date format to use?
   #
