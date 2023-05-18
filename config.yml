@@ -181,6 +181,34 @@ params:
       description: Work Wallet.
       category: IT Support Links
       link: https://identity.work-wallet.com/
+    - name: SubTV
+      description: SubTV.
+      category: IT Support Links
+      link: https://control.sub.tv/panel/#/players
+    - name: Redbus Digital Media
+      description: Redbus Digital Media.
+      category: IT Support Links
+      link: https://digital.redbusmedia.com/
+    - name: eDavis Licence Check
+      description: eDavis Licence Check.
+      category: IT Support Links
+      link: https://keele.edavis.co.uk/
+    - name: Radius Velocity
+      description: Radius Velocity Fleet Service.
+      category: IT Support Links
+      link: https://www.velocityfleet.com/index/
+    - name: Reveal dems360
+      description: Reveal dems360.
+      category: IT Support Links
+      link: https://dems360.b2clogin.com/0127cf2b-767b-455e-9748-73b7c8f984ee/b2c_1_signin/oauth2/v2.0/authorize?client_id=a3e3ae2f-5348-45ab-8c90-5ab3073ef5ac&redirect_uri=https%3A%2F%2Fukcloud.dems360.com&response_type=code%20id_token&scope=openid&state=OpenIdConnect.AuthenticationProperties%3DOtncfOH8oxAH8DdzBeTcZ_7RmkkkwXiRl05UbGk9rBtAnLGMxIwZDBSFEgMYutiPn8U1mMqu6Bl09ZHWql4IgXVVN59PXKIrTFGku9DgeWylJ6x6enWKOxxadzLmci71OItoWPvwcyeZgDI7DC-due6kPSi89z3f0rI5hGc6PII_zr7jB4opx6M28U9PIn0eUw0UER4pa5KFBwXC6IZBiglnE5g_WFHqzdCn_YEIg0U&response_mode=form_post&x-client-SKU=ID_NET472&x-client-ver=6.13.1.0/
+    - name: MSL Hosting Status
+      description: MSL Hosting Status.
+      category: IT Support Links
+      link: https://status.ans.co.uk/
+    - name: SCIMS eVision
+      description: SCIMS eVision.
+      category: IT Support Links
+      link: https://scims.keele.ac.uk/      
 
   # What date format to use?
   #
