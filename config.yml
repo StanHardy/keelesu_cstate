@@ -157,7 +157,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Website
+    - name: Main Website
       description: The web frontend for the application.
       category: Website
       link: https://keelesu.com
@@ -169,6 +169,18 @@ params:
       description: This is the service responsible for serving our Digital Signage.
       category: IT Support Links
       link: http://digitalsignage.keelesu.com
+    - name: Bookings
+      description: Bookings System
+      category: Website
+      link: https://bookings.keelesu.com/
+    - name: KeeleSU Print House
+      description: KeeleSU Print House.
+      category: IT Support Links
+      link: https://www.keeleprinthouse.co.uk/
+    - name: Work Wallet
+      description: Work Wallet.
+      category: IT Support Links
+      link: https://identity.work-wallet.com/
 
   # What date format to use?
   #
